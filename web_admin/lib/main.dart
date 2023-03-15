@@ -14,9 +14,9 @@ void main() async {
   await Firebase.initializeApp(
       options: kIsWeb || Platform.isAndroid
           ? FirebaseOptions(
-              apiKey: "AIzaSyCXgkSUl8-AZC-NzSui-RgjOoku9u_Idxk",
-              appId: "1:688200263234:web:68bba29428659ed27befdb",
-              messagingSenderId: "688200263234",
+              apiKey: "",
+              appId: "",
+              messagingSenderId: "",
               projectId: "telco-system-app",
               storageBucket: "telco-system-app.appspot.com",
             )
