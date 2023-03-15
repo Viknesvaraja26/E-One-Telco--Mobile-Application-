@@ -46,8 +46,7 @@ final FlutterLocalNotificationsPlugin flutterLocalNotificationsPlugin =
 
 Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();
-  Stripe.publishableKey =
-      "pk_test_51MfTu1KK6QmEe7qyV0XQoTc42bFBdfx7qTA9blKXKRufgZeA0f1GbH5eM8xWD1GssXHJZaBulRHWZE6hW6qDn6r600qmLqhhNH";
+  Stripe.publishableKey = "";
   Stripe.instance.applySettings();
   await Firebase.initializeApp();
   await GetStorage.init();
