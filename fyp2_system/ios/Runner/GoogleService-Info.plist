@@ -3,19 +3,19 @@
 <plist version="1.0">
 <dict>
 	<key>CLIENT_ID</key>
-	<string>688200263234-eeepq67ctvgfug81b8c24uj953o0oapk.apps.googleusercontent.com</string>
+	<string></string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.688200263234-eeepq67ctvgfug81b8c24uj953o0oapk</string>
+	<string></string>
 	<key>API_KEY</key>
-	<string>AIzaSyCWJdJcNwkl7auri3MvFsHwT_DeqIVE7eE</string>
+	<string></string>
 	<key>GCM_SENDER_ID</key>
-	<string>688200263234</string>
+	<string></string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
 	<string>com.example.fyp2System</string>
 	<key>PROJECT_ID</key>
-	<string>telco-system-app</string>
+	<string></string>
 	<key>STORAGE_BUCKET</key>
 	<string>telco-system-app.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
@@ -29,8 +29,8 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:688200263234:ios:60578308057381a77befdb</string>
+	<string></string>
 	<key>DATABASE_URL</key>
-	<string>https://telco-system-app-default-rtdb.firebaseio.com</string>
+	<string></string>
 </dict>
 </plist>

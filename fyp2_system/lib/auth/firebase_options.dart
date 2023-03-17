@@ -44,44 +44,44 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyCXgkSUl8-AZC-NzSui-RgjOoku9u_Idxk',
-    appId: '1:688200263234:web:68bba29428659ed27befdb',
-    messagingSenderId: '688200263234',
-    projectId: 'telco-system-app',
-    authDomain: 'telco-system-app.firebaseapp.com',
-    databaseURL: 'https://telco-system-app-default-rtdb.firebaseio.com',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    authDomain: '',
+    databaseURL: '',
     storageBucket: 'telco-system-app.appspot.com',
-    measurementId: 'G-YXX53KR6MK',
+    measurementId: '',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyC2EDVH9I_pytK0rmQaOSHeDlNcMv4EXvY',
-    appId: '1:688200263234:android:5d0c430003e2a6537befdb',
-    messagingSenderId: '688200263234',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
     projectId: 'telco-system-app',
-    databaseURL: 'https://telco-system-app-default-rtdb.firebaseio.com',
+    databaseURL: '',
     storageBucket: 'telco-system-app.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyCWJdJcNwkl7auri3MvFsHwT_DeqIVE7eE',
-    appId: '1:688200263234:ios:60578308057381a77befdb',
-    messagingSenderId: '688200263234',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
     projectId: 'telco-system-app',
-    databaseURL: 'https://telco-system-app-default-rtdb.firebaseio.com',
+    databaseURL: '',
     storageBucket: 'telco-system-app.appspot.com',
-    iosClientId: '688200263234-eeepq67ctvgfug81b8c24uj953o0oapk.apps.googleusercontent.com',
+    iosClientId: '',
     iosBundleId: 'com.example.fyp2System',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyCWJdJcNwkl7auri3MvFsHwT_DeqIVE7eE',
-    appId: '1:688200263234:ios:60578308057381a77befdb',
-    messagingSenderId: '688200263234',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
     projectId: 'telco-system-app',
-    databaseURL: 'https://telco-system-app-default-rtdb.firebaseio.com',
+    databaseURL: '',
     storageBucket: 'telco-system-app.appspot.com',
-    iosClientId: '688200263234-eeepq67ctvgfug81b8c24uj953o0oapk.apps.googleusercontent.com',
+    iosClientId: '',
     iosBundleId: 'com.example.fyp2System',
   );
 }
